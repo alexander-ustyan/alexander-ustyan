@@ -29,7 +29,7 @@ Deployed Active Directory on Microsoft Azure by setting up a domain controller t
 - Active Directory  
 - PowerShell  
 
-**Repository:** [View Project](https://github.com/alexander-ustyan/alexander-ustyan)  
+**Repository:** [View Project](https://github.com/alexander-ustyan/active-directory)  
 
 ---
 
