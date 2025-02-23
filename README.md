@@ -14,7 +14,7 @@ Set-up and configured osTicket on a virtual machine in Microsoft Azure. Further 
 - Microsoft Azure Virtual Machines  
 - IIS  
 
-**Repository:** [View Project](https://github.com/alexander-ustyan/alexander-ustyan)  
+**Repository:** [View Project](https://github.com/alexander-ustyan/osTicket-Project)
 
 
 ---
