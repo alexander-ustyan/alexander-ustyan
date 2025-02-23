@@ -2,7 +2,7 @@
 <h2> CourseCareers IT Professional (100% Course Completion) </h2>
 <h2> ComptTIA A+ (in progress) </h2>
 
-## Recent IT Projects
+## <h1> Recent IT Projects </h1>
 
 ### 1. Help Desk Ticketing System with osTicket and Microsoft Azure
 **Description:**  
