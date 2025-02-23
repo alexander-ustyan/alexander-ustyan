@@ -14,7 +14,7 @@ Set-up and configured osTicket on a virtual machine in Microsoft Azure. Further 
 - IIS  
 
 **Repository:** [View Project](https://github.com/alexander-ustyan/alexander-ustyan)  
-**Demo:** SOURCE
+
 
 ---
 
@@ -29,7 +29,6 @@ Deployed Active Directory on Microsoft Azure by setting up a domain controller t
 - PowerShell  
 
 **Repository:** [View Project](https://github.com/alexander-ustyan/alexander-ustyan)  
-**Demo:** SOURCE
 
 ---
 
