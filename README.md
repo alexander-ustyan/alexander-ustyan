@@ -16,11 +16,11 @@ Set-up and configured osTicket on a virtual machine in Microsoft Azure. Further 
 
 **Tutorial Project:** 
 <br>
-[osTicket Install](https://github.com/alexander-ustyan/osTicket-Project)
+[1. osTicket Install](https://github.com/alexander-ustyan/osTicket-Project)
 <br> 
-[osTicket Setup](https://github.com/alexander-ustyan/osTicket2-LAB)
+[2. osTicket Setup](https://github.com/alexander-ustyan/osTicket2-LAB)
 <br>
-[osTicket Lifestyle](https://github.com/alexander-ustyan/osTicket3-LAB)
+[3. osTicket Lifestyle](https://github.com/alexander-ustyan/osTicket3-LAB)
 ---
 
 ### 2. Active Directory Implementation on Microsoft Azure
@@ -32,9 +32,9 @@ Deployed Active Directory on Microsoft Azure by setting up a domain controller t
 - Microsoft Azure Virtual Machines  
 - Active Directory  
 - PowerShell  
-
-**Tutorial Project:** [ActiveDirectoryLAB](https://github.com/alexander-ustyan/active-directory)  
-
+<br>
+**Tutorial Project:** [Full ActiveDirectoryLAB](https://github.com/alexander-ustyan/active-directory)  
+<br>
 ---
 
 ## Skills & Technologies
