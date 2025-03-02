@@ -32,9 +32,9 @@ Deployed Active Directory on Microsoft Azure by setting up a domain controller t
 - Microsoft Azure Virtual Machines  
 - Active Directory  
 - PowerShell  
-<br>
+
 **Tutorial Project:** [Full ActiveDirectoryLAB](https://github.com/alexander-ustyan/active-directory)  
-<br>
+
 ---
 
 ## Skills & Technologies
