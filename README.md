@@ -1,9 +1,9 @@
-<h1> Hi, I'm Alexander, an asipring and motivated IT professional. </h1> 
+## <h1> Hi, I'm Alexander, an asipring and motivated IT professional. </h1> 
 <h2> CourseCareers IT Professional (100% Course Completion) </h2>
 <h2> ComptTIA A+ (in progress) </h2>
 <h2> Google IT Support (in progress) </h2>
 
-## <h1> Recent IT Projects </h1>
+<h1> Recent IT Projects </h1>
 
 ### 1. Help Desk Ticketing System with osTicket and Microsoft Azure
 **Description:**  
