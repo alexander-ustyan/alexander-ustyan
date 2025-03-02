@@ -15,8 +15,8 @@ Set-up and configured osTicket on a virtual machine in Microsoft Azure. Further 
 - IIS  
 
 **Tutorial Project:** [osTicketLAB](https://github.com/alexander-ustyan/osTicket-Project)
-
-
+[osTicketLABpart2](https://github.com/alexander-ustyan/osTicket2-LAB)
+[osTicketLABpart3](https://github.com/alexander-ustyan/osTicket3-LAB)
 ---
 
 ### 2. Active Directory Implementation on Microsoft Azure
