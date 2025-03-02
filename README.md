@@ -3,7 +3,7 @@
 <h2> ComptTIA A+ (in progress) </h2>
 <h2> Google IT Support (in progress) </h2>
 
-*<h1> Recent IT Projects </h1>*
+## <h1> Recent IT Projects </h1>
 
 ### 1. Help Desk Ticketing System with osTicket and Microsoft Azure
 **Description:**  
